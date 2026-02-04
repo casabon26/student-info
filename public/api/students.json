@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Daniel Casabon",
+    "age": 20,
+    "major": "Computer Science",
+    "email": "daniel@example.edu"
+  },
+  {
+    "id": 2,
+    "name": "Juan Dela Cruz",
+    "age": 22,
+    "major": "Mathematics",
+    "email": "juan.delacruz@example.edu"
+  },
+  {
+    "id": 3,
+    "name": "Carol Deguzman",
+    "age": 19,
+    "major": "Biology",
+    "email": "carol.deguzman@example.edu"
+  },
+  {
+    "id": 4,
+    "name": "Anne Curtis",
+    "age": 21,
+    "major": "History",
+    "email": "anne.curtis@example.edu"
+  }
+]
